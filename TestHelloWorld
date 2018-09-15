@@ -1,5 +1,11 @@
 <!DOCTYPE html>
 <html>
+<head>
+<meta charset="utf-8">
+<title>Test</title>
+<link rel="stylesheet" href="main.css">
+</meta>
+</head>
 <h1 lang="en">Hello World!</h1>
 <p lang="en" style="font-size:10pt;">
 How are you today?</p>
